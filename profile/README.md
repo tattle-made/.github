@@ -9,12 +9,12 @@ We build in the open and track all ongoing tech projects on [Github](https://git
 
 ## Current Projects
 1. Uli (tools for collective response to OGBV)
-The pilot of this project (2021-2022) was funded by the Digital Society Challenge managed by [Omidyar Network India](https://www.omidyarnetwork.in/). 
-A total of 54K USD was shared between the [Center for Internet and Society, India](https://cis-india.org/) and Tattle. 
-
-More details about the two-year road map till end of 2024 can be found on project specific repository:
-Primary Repositories : [Uli repo](https://github.com/tattle-made/OGBV)  
-Track the Project: [here](https://github.com/orgs/tattle-made/projects/16)
+  * Current Funding Sources: Mozilla Digital Society Challenge:
+  * Past funding: The pilot of this project (2021-2022) was funded by the Digital Society Challenge managed by [Omidyar Network India](https://www.omidyarnetwork.in/). A total of 54K USD was shared by the [Center for Internet and Society, India](https://cis-india.org/) and Tattle.
+  
+  * More details about the two-year road map till end of 2024 can be found on project specific repository:
+    * Primary Repositories : [Uli repo](https://github.com/tattle-made/OGBV)  
+    * Track the Project: [here](https://github.com/orgs/tattle-made/projects/16)
 
 2. Viral Spiral - An Adaptive Digital Card Game about Misinformation
 The game reflects the ways and reasons misinformation is shared, letting players experience first hand thetemptation to share fake news for their own gain and face the consequences of the harm it causes around them.  

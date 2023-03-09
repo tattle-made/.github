@@ -4,9 +4,6 @@ __We build  tools and  datasets to understand and respond to misinformation in I
 
 We are a community of technologists, researchers, and artists working towards a healthier online information ecosystem in India.
 
-## Get Involved
-We build in the open and track all ongoing tech projects on [Github](https://github.com/orgs/tattle-made/projects?type=beta). Find an issue of interest and contact us.
-
 ## Current Projects
 1. Uli (tools for collective response to OGBV)
   * Current Funding Sources: Mozilla Digital Society Challenge:
@@ -27,6 +24,15 @@ Kosh is Tattle's foundational software component that enables archiving and sear
 Supported by [AI Ethics Grant](https://aiethicsinitiative.org/)  
 Related Repositories : [1](https://github.com/tattle-made/kosh-v2) and [2](https://github.com/tattle-made/tattle-api)  
 Track the Project [here](https://github.com/orgs/tattle-made/projects/9)  
+
+
+## Get Involved
+We build in the open and track all ongoing tech projects on [Github](https://github.com/orgs/tattle-made/projects?type=beta). 
+
+To contribute to the project, find an issue of interest and contact us.
+
+You can also support us through GitHub's sponsorship feature here: https://github.com/sponsors/tattle-made
+
 
 ## Reach out to us at : 
 - [Twitter](twitter.com/tattlemade)

@@ -8,8 +8,8 @@ We are a community of technologists, researchers, and artists working towards a 
 1. Uli (tools for collective response to OGBV)
   * Current Funding Sources: [Mozilla Digital Society Challenge](https://foundation.mozilla.org/en/blog/mozilla-welcomes-2023-data-futures-lab-cohort/)
   * Past funding: 
-   * The pilot of this project (2021-2022) was funded by the Digital Society Challenge managed by [Omidyar Network India](https://www.omidyarnetwork.in/). A total of 54K USD was shared by the [Center for Internet and Society, India](https://cis-india.org/) and Tattle.
-   * Tattle revenue from consulting projects. Between July 2022 to December 2022, the infrastructure and communication costs were offset by Tattle's revenue from consulting on other projects.  
+    * The pilot of this project (2021-2022) was funded by the Digital Society Challenge managed by [Omidyar Network India](https://www.omidyarnetwork.in/). A total of 54K USD was shared by the [Center for Internet and Society, India](https://cis-india.org/) and Tattle.
+    * Tattle revenue from consulting projects. Between July 2022 to December 2022, the infrastructure and communication costs were offset by Tattle's revenue from consulting on other projects.  
   
   
   * More details about the two-year road map can be found on project specific repository:

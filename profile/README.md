@@ -18,7 +18,7 @@ We are a community of technologists, researchers, and artists working towards a 
 
 2. Viral Spiral - An Adaptive Digital Card Game about Misinformation
 The game reflects the ways and reasons misinformation is shared, letting players experience first hand thetemptation to share fake news for their own gain and face the consequences of the harm it causes around them.  
-Supported by [Mercatus Center](https://www.mercatus.org/)  
+Past Funding: [Mercatus Center](https://www.mercatus.org/)  
 Related Repository : [1](https://github.com/tattle-made/Viral-Spiral)  
 Track the Project [here](https://github.com/orgs/tattle-made/projects/17)
 

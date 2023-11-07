@@ -10,13 +10,7 @@
   </a>
 </div>
 <h4 align="center">
-    <a href="https://tattle.co.in/">Website</a> |
-    <a href="https://tattle.co.in/blog">Blog</a> | 
-    <a href="https://twitter.com/tattlemade/">Twitter</a> |
-    <a href="mailto:admin@tattle.co.in">Email</a> | 
-    <a href="https://admin417477.typeform.com/to/nVuNyG">Slack</a>
-    <br/><br/>
-  
+    <a href="https://admin417477.typeform.com/to/nVuNyG">Join us on Slack</a>  
 </h4>
 
 We are a community of technologists, researchers, and artists working towards a healthier online information ecosystem in India.

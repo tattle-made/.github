@@ -1,15 +1,32 @@
-# Tattle
+<div align="center">
+  <h3>Tattle Civic Technologies </h3>
+  <h4>We build  tools and  datasets to understand and respond to inaccurate and harmful content</h4>
+</div>
+<div align="center">
+  <a href="https://tattle.co.in" target="_blank">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/1415361/280928126-bc036490-2da6-44ce-bf3e-0b41c67b5f09.png" alt="Landing Image"/>
+  </picture>
+  </a>
+</div>
+<h4 align="center">
+    <a href="https://tattle.co.in/">Website</a> |
+    <a href="https://tattle.co.in/blog">Blog</a> | 
+    <a href="https://twitter.com/tattlemade/">Twitter</a> |
+    <a href="mailto:admin@tattle.co.in">Email</a> | 
+    <a href="https://admin417477.typeform.com/to/nVuNyG">Slack</a>
+    <br/><br/>
+  
+</h4>
 
-__We build  tools and  datasets to understand and respond to inaccurate and harmful content in India.__
 We are a community of technologists, researchers, and artists working towards a healthier online information ecosystem in India.
 
 ## Current Projects
-⚒️ **Uli** - Tools for collective response to Online Gender Based Violence. {[website](https://tattle.co.in/products/ogbv)|[repo](https://github.com/tattle-made/uli)}  
-🃏 **Viral Spiral** - An Adaptive Digital Card Game about Misinformation {[website](https://tattle.co.in/products/viral-spiral/)|[repo](github.com/tattle-made/viral-spiral-backend)}  
-📦 **Kosh** and **Feluda** - Archiving and analysis of Social Media posts {[website](https://tattle.co.in/products/kosh/)|[repo](github.com/tattle-made/feluda)}  
+| Project | Description | Website | Repository | 
+| --- | --- | --- | --- |
+| ⚒️ **Uli** | Tools for collective response to Online Gender Based Violence. | [website](https://tattle.co.in/products/ogbv) | [repo](https://github.com/tattle-made/uli) |   
+| 🃏 **Viral Spiral** | A Multiplayer Card Game about Misinformation | [website](https://tattle.co.in/products/viral-spiral/) | [repo](github.com/tattle-made/viral-spiral-backend) |  
+| 📦 **Kosh** and **Feluda** |  Archiving and Analysis of Social Media content | [website](https://tattle.co.in/products/kosh/) | [repo](github.com/tattle-made/feluda) |   
 
 ## Contribute
-We build in the open and track all ongoing projects on Github. Find what we are working on [this quarter](https://github.com/orgs/tattle-made/projects/37) or read through open issues on individual repositories. To contribute to the project, find an issue of interest and contact us. You can also support us using GitHub [Sponsors](https://github.com/sponsors/tattle-made) 
-
-## Elsewhere
-Connect with us on [Twitter](twitter.com/tattlemade), [Slack](https://admin417477.typeform.com/to/nVuNyG) or [email](mailto:admin@tattle.co.in)
+We build in the open and track all ongoing projects on Github. Find what we are working on [this quarter](https://github.com/orgs/tattle-made/projects/41/views/3) and **comment** on issues that excite you. You can also support us using [GitHub Sponsors](https://github.com/sponsors/tattle-made) 

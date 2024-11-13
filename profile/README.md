@@ -23,4 +23,4 @@ We are a community of technologists, researchers, and artists working towards a 
 | 📦 **Kosh** and **Feluda** |  Archiving and Analysis of Social Media content | [website](https://tattle.co.in/products/kosh/) | [repo](github.com/tattle-made/feluda) |   
 
 ## Contribute
-We build in the open and track all ongoing projects on Github. Find what we are working on [this quarter](https://github.com/orgs/tattle-made/projects/45/views/7) and **comment** on issues that excite you. You can also support us using [GitHub Sponsors](https://github.com/sponsors/tattle-made) 
+We build in the open and track all ongoing projects on Github. Find what initiatives we are working on [this quarter](https://github.com/orgs/tattle-made/projects/50/views/2) and **comment** on issues that excite you. You can also support us using [GitHub Sponsors](https://github.com/sponsors/tattle-made) 

@@ -20,7 +20,8 @@ We are a community of technologists, researchers, and artists working towards a 
 | --- | --- | --- | --- |
 | ⚒️ **Uli** | Tools for collective response to Online Gender Based Violence. | [website](https://tattle.co.in/products/ogbv) | [repo](https://github.com/tattle-made/uli) |   
 | 🃏 **Viral Spiral** | A Multiplayer Card Game about Misinformation | [website](https://tattle.co.in/products/viral-spiral/) | [repo](github.com/tattle-made/viral-spiral-backend) |  
-| 📦 **Kosh** and **Feluda** |  Archiving and Analysis of Social Media content | [website](https://tattle.co.in/products/kosh/) | [repo](github.com/tattle-made/feluda) |   
+| 📦 **Feluda** |  Archiving and Analysis of Social Media content | [website](https://tattle.co.in/products/kosh/) | [repo](github.com/tattle-made/feluda) |   
+| 📸 **DAU** | Deepfakes Analysis Unit | [website](https://www.dau.mcaindia.in/) | [repo](https://github.com/tattle-made/dau) |   
 
 ## Contribute
-We build in the open and track all ongoing projects on Github. Find what initiatives we are working on [this quarter](https://github.com/orgs/tattle-made/projects/50/views/2) and **comment** on issues that excite you. You can also support us using [GitHub Sponsors](https://github.com/sponsors/tattle-made) 
+We build in the open and track all ongoing projects on Github. Find what initiatives we are working on [this quarter](https://github.com/orgs/tattle-made/projects/52) and **comment** on issues that excite you. You can also support us using [GitHub Sponsors](https://github.com/sponsors/tattle-made) 

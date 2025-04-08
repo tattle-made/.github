@@ -12,8 +12,8 @@ We are a community of technologists, researchers, and artists working towards a 
 | Project | Description | Website | Repository | 
 | --- | --- | --- | --- |
 | ⚒️ **Uli** | Tools for collective response to Online Gender Based Violence. | [website](https://tattle.co.in/products/ogbv) | [repo](https://github.com/tattle-made/uli) |   
-| 🃏 **Viral Spiral** | A Multiplayer Card Game about Misinformation | [website](https://tattle.co.in/products/viral-spiral/) | [repo](github.com/tattle-made/viral-spiral-backend) |  
-| 📦 **Feluda** |  Archiving and Analysis of Social Media content | [website](https://tattle.co.in/products/kosh/) | [repo](github.com/tattle-made/feluda) |   
+| 🃏 **Viral Spiral** | A Multiplayer Card Game about Misinformation | [website](https://tattle.co.in/products/viral-spiral/) | [repo](https://github.com/tattle-made/viral-spiral-backend) |  
+| 📦 **Feluda** |  Archiving and Analysis of Social Media content | [website](https://tattle.co.in/products/kosh/) | [repo](https://github.com/tattle-made/feluda) |   
 | 📸 **DAU** | Deepfakes Analysis Unit | [website](https://www.dau.mcaindia.in/) | [repo](https://github.com/tattle-made/dau) |   
 
 ## Contribute

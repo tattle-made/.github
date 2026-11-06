@@ -19,4 +19,6 @@ We are a community of technologists, researchers, and artists working towards a 
 ## Contribute
 We build in the open and track all ongoing projects on Github. Find what initiatives we are working on [this quarter](https://github.com/orgs/tattle-made/projects/52) and **comment** on issues that excite you. You can also support us using [GitHub Sponsors](https://github.com/sponsors/tattle-made) 
 
+Elixir code in our repositories follows our [style guide](https://github.com/tattle-made/.github/blob/main/docs/elixir-style-guide.md).
+
 Join us on [slack](https://admin417477.typeform.com/to/nVuNyG) 

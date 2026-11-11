@@ -41,6 +41,8 @@ end
 
 ```elixir
 test "an admin can also pick the Admin level", %{conn: conn, user: user} do
+  ...
+end
 ```
 
 - When a test needs data to exist before it starts, create it with a fixture in a `setup` block. The block returns a map, and its keys land in the test context next to `conn` and `user`. Keep fixtures in `test/support/fixtures/`, one module per context. For examples, see Uli's [fixtures folder](https://github.com/tattle-made/Uli/tree/main/uli-community/test/support/fixtures).
@@ -51,6 +53,8 @@ setup %{user: user} do
 end
 
 test "...", %{conn: conn, user: user, slur: slur} do
+  ...
+end
 ```
 
 ## The shape of a test
@@ -62,19 +66,26 @@ Every test is a pipe: visit, check the starting state, act, assert.
 Check the starting state before you act. The "before" check proves your action made the change:
 
 ```elixir
-test "removes the row from the table", %{conn: conn} do
+test "adds the new token to the table", %{conn: conn} do
   conn
   |> visit(~p"/gentoken")
-  |> generate_token("Phoenix Test Token", Date.utc_today())
-  |> click_button("Close")
-  |> assert_has("#tokens-table tr", text: "Phoenix Test Token")
-  |> click_button("Delete")
-  |> assert_has("#flash-info", text: "Token deleted successfully.")
   |> refute_has("#tokens-table tr", text: "Phoenix Test Token")
+  |> generate_token("Phoenix Test Token", Date.utc_today())
+  |> assert_has("#tokens-table tr", text: "Phoenix Test Token")
+end
+
+defp generate_token(session, name, expiry) do
+  within(session, "#token-form", fn form ->
+    form
+    |> fill_in("Token Name", with: name)
+    |> fill_in("Set Expiry", with: expiry)
+    |> select("Access Level", option: "User")
+    |> click_button("Save")
+  end)
 end
 ```
 
-Pull repeated steps into a private helper that takes and returns the session, like `generate_token/3` in Uli's token test.
+Pull repeated steps into a private helper that takes and returns the session, like `generate_token/3` above.
 
 Add a short comment above an assertion when it isn't obvious what it proves.
 

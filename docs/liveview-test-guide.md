@@ -7,6 +7,22 @@ The examples below come from [Uli](https://github.com/tattle-made/Uli), where th
 - [`token_generation_live_test.exs`](https://github.com/tattle-made/Uli/blob/main/uli-community/test/uli_community_web/live/token_generation_live_test.exs)
 - [`crowdsource_slur_form_live_test.exs`](https://github.com/tattle-made/Uli/blob/main/uli-community/test/uli_community_web/live/crowdsource_slur_form_live_test.exs)
 
+## What to test
+
+A UI test checks what a user can do on a page and what the page shows back. For each page, write tests for:
+
+- **The happy path.** The page's main action succeeds.
+- **Bad input.** The user sees an error and nothing is saved.
+- **Editing and deleting.** Only if the page offers them.
+- **Roles.** Each role sees only what it should.
+- **Ownership.** A user can't open someone else's data.
+
+Skip these in UI tests:
+
+- **Styling and layout.** PhoenixTest doesn't run CSS.
+- **JavaScript.** PhoenixTest doesn't run it (see the last section).
+- **Logic with no UI.** Cover it in the context's own tests.
+
 ## How a test file is set up
 
 ```elixir
